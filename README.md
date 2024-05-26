@@ -1,5 +1,7 @@
 # Capstone Project Module-3 Capstone Lifetime Value
 
+[Sumber data CLV](https://drive.google.com/drive/folders/1GR7l3uWmcOCA2sxx1W-cEkReDxdedoeJ?usp=drive_link)
+
 ### **Contents**
 
 1. Business Problem Understanding
